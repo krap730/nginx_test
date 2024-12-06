@@ -27,7 +27,7 @@ export default function HeroSectionSecond() {
         </div>
         <div className="md:w-1/2">
             <Image
-            src="/placeholder.svg?height=400&width=600"
+            src={`${basePath}/img-dir-test/test-img.svg?height=400&width=600`}
             alt="創造的なデザインのイメージ"
             width={600}
             height={400}
