@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Header from '@/components/header'
 import HeroSectionSecond from '@/components/components-second/hero-section-second'
 import ServicesSectionSecond from '@/components/components-second/services-section-second'
